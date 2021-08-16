@@ -1,6 +1,14 @@
 # Sort-Manager
 A repository to store files and folders relating to the Sort Manager I built using Java.
 
+For use:
+1) Clone this repository into your own repository/folder.
+2) Open this folder into IntelliJ.
+3) Run the 'Main' file.
+4) Following the instructions output by the program (depending on your input).
+
+-----
+
 After a period of two weeks at Sparta Global, where we were taught Java, we were assigned a project where we would have to individually build a 'Sort Manager' application.
 
 This was an application that combined various different sorting algorithms (e.g. Bubble Sort, Merge Sort, etc.). Each of these algorithms would randomly generate an array, allowing the user to input their own choice on the amount of elements inside the array, sort that random array and they time how long each algorithm took to run and compile, to test which algorithm was the faster and which was the slowest.
